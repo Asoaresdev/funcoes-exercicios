@@ -93,5 +93,6 @@ const tabuadaArrowFunction = (number) =>{
 }
 
 tabuadaArrowFunction(2)
-=======
+
+
 
