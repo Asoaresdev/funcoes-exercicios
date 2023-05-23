@@ -11,7 +11,6 @@ function dividir (num1, num2) {
     return `Divisão de ${num1} e ${num2} é ${num1 / num2}`
 }
 
-
 const numero1 = Number(prompt("digite um numero"))
 const numero2 = Number(prompt("digite um numero"))
 
