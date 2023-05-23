@@ -1,4 +1,5 @@
 
+
 // ex1 - a
 function imprimeFrase (nome){
     console.log(`olá, ${nome}`);
@@ -92,3 +93,5 @@ const tabuadaArrowFunction = (number) =>{
 }
 
 tabuadaArrowFunction(2)
+=======
+
