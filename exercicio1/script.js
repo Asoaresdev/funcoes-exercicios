@@ -18,6 +18,7 @@ console.log("\n");
 //         console.log(`${index} x ${number} = ${result}`);  
 //     }
 // }
+
 function tabuada (number){
         console.log("==================ex1 - b====================");
         console.log(`tabuada de multiplicação de ${number}`);

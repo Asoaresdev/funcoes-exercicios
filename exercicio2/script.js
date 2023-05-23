@@ -11,6 +11,7 @@ function primeiroNumeroMaiorQueSegundo (num1, num2) {
     return `${num1} é maior do que ${num2}?  ${num1 > num2}`
 }
 
+
 console.log("================ex2 - b======================");
 console.log(primeiroNumeroMaiorQueSegundo(2,11));
 console.log(primeiroNumeroMaiorQueSegundo(20,11));
